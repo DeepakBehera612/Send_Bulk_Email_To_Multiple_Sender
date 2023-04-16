@@ -1,0 +1,10 @@
+
+# Note 1:- (user.csv file used) Save Multiple Gmail Id and App Password with seperated by comma(,) because we can send mail from multiple account
+# Note 2:- (mail.csv file used) Save Multiple Sender gmail id [To-Adderss] 
+# Note 3:- (message1.txt file used) Set you body message to Sender 
+
+smtplib
+ssl
+csv
+random
+EmailMessage
